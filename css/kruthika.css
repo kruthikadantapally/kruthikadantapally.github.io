@@ -1,0 +1,234 @@
+body {
+    
+      position: absolute;
+
+  
+  }
+
+div#background{
+
+  background: url(bc4.jpg) no-repeat 50% 50% fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+}
+
+
+
+  #Home {
+
+    padding-top:260px;
+    padding-left: 600px;
+    height:650px;
+    align-content: right;
+    font-family: 'Antic Didone';font-size: 22px;
+
+   
+  }
+
+  #s1{
+     border-style: hidden;back
+     
+     height: 280px;
+     width: 600px;
+     color: black;
+     padding-top: 35px;
+     margin-right: 0px;
+     text-align: right;
+    
+  }
+
+  #sec2{
+
+    border-style: hidden; 
+    height: 250px;
+    width: 1100px;
+    padding-left: 40px;
+    
+  }
+
+  #About{
+
+    padding-top:110px;
+    padding-left: 50px;
+    height:600px;
+    color: black;
+    font-family: 'Antic Didone';font-size: 22px;
+  }
+
+  /*p#ab1{
+
+    font-family: 'Antic Didone';font-size: 22px;
+
+  }*/
+
+  #Experience {
+    padding-top:50px;
+    height:700px;
+    color: black;
+    padding-left: 120px;
+    padding-right: 250px;
+    font-family: 'Aref Ruqaa';font-size: 18px;
+  }
+
+  #ex1{
+    height: 150px;
+    width: 320px;
+    padding-left: 30px;
+   
+  }
+
+  #ex2{
+
+    height: 190px;
+    width: 320px;
+    padding-top: 45px;
+    padding-bottom: 35px;
+    padding-left: 30px;
+  }
+
+  /*table,td {
+
+   /* border: 1px solid black;
+    border-collapse: collapse;
+    background-color: white;
+
+  }*/
+
+  table.bgcw, td.bgcw {
+
+    background-color: white;
+  }
+
+  #exp{
+
+    padding-top: 200px;
+  }
+
+  #ex5{
+
+    text-align: center;
+  }
+
+  #ex6{
+
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-right: 50px;
+  }
+
+#Education {
+    padding-top:50px;
+    padding-left: 120px;
+    padding-right: 250px;
+    height:600px;
+    color: black;
+     font-family: 'Aref Ruqaa';font-size: 18px;
+  }
+
+  #ed1{
+
+    padding-left: 62px;
+    padding-top: 40px;
+
+  }
+
+  #ed2{
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-right: 60px;
+
+
+  }
+#Certifications {padding-top:60px;height:400px;
+    color: black;
+  font-family: 'Aref Ruqaa';font-size: 18px;
+}
+
+#Contact {padding-top:100px;height:500px;
+    color: black;
+  font-family: 'Aref Ruqaa';font-size: 18px;}
+
+  #con1{
+
+    padding-left:600px;
+  }
+  
+  #con2{
+
+   padding-left: 10px;
+
+
+  }
+
+#Skills {
+    padding-top:50px;
+    padding-left: 120px;
+    padding-right: 150px;
+    height:650px;
+    color: black;
+  }
+
+  #sk2{
+
+    float: left;
+  }
+
+#resumeProficiencies {
+    float: left;
+    clear: right;
+    width: 500px;
+    margin: 20px 0px 30px 30px;
+}
+
+#resumeProficienciesTop {
+    float: left;
+    clear: right;
+    width: 100%;
+    margin: -5px 0px 0px 0px;
+    text-align: left;
+    font-weight: 600;
+}
+
+#resumeProficienciesBottom {
+    float: left;
+    clear: right;
+    width: 80%;
+    margin: 2px 0px 0px 0px;
+}
+
+.progress {
+    background:#e9e5e2;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#dddddd), to(#e9e5e2));
+    background-image: -webkit-linear-gradient(top, #dddddd, #e9e5e2);
+    background-image: -moz-linear-gradient(top, #dddddd, #e9e5e2);
+    background-image: -ms-linear-gradient(top, #dddddd, #e9e5e2);
+    background-image: -o-linear-gradient(top, #dddddd, #e9e5e2);
+    background-image: linear-gradient(top, #dddddd, #e9e5e2);  
+    height:20px; 
+    border-radius: 0px;
+    -moz-box-shadow: 0 1px 0px #bebbb9 inset, 0 1px 0 #fcfcfc;   
+    -webkit-box-shadow: 0 1px 0px #bebbb9 inset, 0 1px 0 #fcfcfc;    
+    box-shadow: 0 1px 0px #bbbbbb inset, 0 1px 0 #fcfcfc;     
+}
+.progress-bar {
+    height: 20px;
+    background-color: yellow;
+}
+.html5, .css3, .javascript, .jquery, .bootstrap, .angularjs, .sql{
+
+ -webkit-transition: width 2s ease;
+ -moz-transition: width 2s ease;
+   -o-transition: width 2s ease;
+      transition: width 2s ease;
+ }
+
+#sk1{
+
+    padding-left: 50px;
+}
+
+li#sk3:not(:last-child) {
+    margin-bottom: 15px;
+}
